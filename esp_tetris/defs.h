@@ -24,10 +24,10 @@
 #if DEV_SERVER
 #define GAME_SERVER_URL   "192.168.0.249"
 #else
-#define GAME_SERVER_URL   "www.smashcat.org"
+#define GAME_SERVER_URL   "www.your-domain.com"
 #endif
 
-#define GAME_SERVER_PORT  8888
+#define GAME_SERVER_PORT  9999
 #define MAX_OPPONENTS     30
 #define APP_SIG0          101
 #define APP_SIG1          102
