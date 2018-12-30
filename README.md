@@ -7,4 +7,6 @@ arduino_libs directory contains a couple of customised libraries required by Ard
 
 gameserver.zip contains the nodejs socket server that allows multi-player. You do not need this for single player
 
+Video of console working: https://www.youtube.com/watch?v=wQm9_M8K_SY&t=9s (older version of game)
+
 ![Photo of console](http://www.smashcat.org/av/esp_console.jpg)
